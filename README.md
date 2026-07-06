@@ -1,4 +1,4 @@
-A lightweight Java utility that reads character position data from a Google Doc and renders it as a 2D grid in the console. Perfect for visualizing character maps, level designs, or any coordinate-based character data stored in Google Sheets.
+A lightweight Java utility that reads character position data from a Google Doc and renders it as a 2D grid in the console. Perfect for visualizing character maps, level designs, or any coordinate-based character data stored in Google Doc.
 
 Input: Google Doc URL containing data in X, Character, Y format
 Output: Grid printed to the console with characters at their specified coordinates
